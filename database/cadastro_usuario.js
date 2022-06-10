@@ -19,3 +19,5 @@ const usuario = conection.define('usuarios' , {
 usuario.sync({force: false}).then(() =>{});
 
 module.exports = usuario
+
+//
