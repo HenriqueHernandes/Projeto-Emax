@@ -20,4 +20,3 @@ usuario.sync({force: false}).then(() =>{});
 
 module.exports = usuario
 
-//
